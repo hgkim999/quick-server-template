@@ -1,0 +1,14 @@
+{
+  "databaseUri": "mongodb://localhost:27017/test",
+  "parseServerUri": "http://localhost:1337/parse",
+  "appId": "{Parse App ID}",
+  "masterKey": "{Parse MasterKey}",
+  "appName": "Quick Server Template",
+  "allowInsecureHttp": true,
+  "users": [
+    {
+      "user": "admin ",
+      "pass": "youradminpassword"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "quick-server-template-parse",
+  "version": "1.0.0",
+  "description": "Parse Server for Quick Server Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "flow": "flow; test $? -eq 0 -o $? -eq 2"
+  },
+  "author": "Samuel Kim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "parse-dashboard": "^1.0.19",
+    "parse-server": "^2.2.25-beta.1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-nodemon": "^0.4.2"
+  }
+}

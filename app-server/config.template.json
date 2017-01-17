@@ -1,0 +1,7 @@
+{
+  "databaseUri": "mongodb://localhost:27017/test",
+  "parseServerUri": "http://localhost:1337/parse",
+  "appId": "{Your FB App ID}",
+  "masterKey": "{Your FB App App Secret}",
+  "appName": "Quick Server Template",
+}
