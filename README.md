@@ -7,6 +7,13 @@ Simple App Backend with NodeJS and Parse Server
   * 3.2 includes field validator
 * AWS EC2 Micro with Ubuntu 16.04
 
+## Quick Links
+* [Quick Client Template](https://github.com/hgkim999/quick-client-template) repo
+
+### High level design for Quick Client and Quick Server
+![Architecture Diagram](https://hgkim999.github.io/page/image/Architecture.png)
+
+
 ## Requirements
 ### Core Requirements
 1. Ubuntu or similar OS that can run NodeJS and MongoDB
